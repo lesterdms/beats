@@ -59,4 +59,76 @@ let allMusic = [
     img: "music-10",
     src: "music-10"
   },
+  {
+    name: "Counting Sheep",
+    artist: "jhove",
+    img: "music-11",
+    src: "music-11"
+  },
+  {
+    name: "Sayonara",
+    artist: "Tenno",
+    img: "music-12",
+    src: "music-12"
+  },
+  {
+    name: "Nemui",
+    artist: "lilac",
+    img: "music-13",
+    src: "music-13"
+  },
+  {
+    name: "Feeling Home",
+    artist: "Yasumu",
+    img: "music-14",
+    src: "music-14"
+  },
+  {
+    name: "Voyager",
+    artist: "dryhope",
+    img: "music-15",
+    src: "music-15"
+  },
+  {
+    name: "Patience",
+    artist: "Arbour",
+    img: "music-16",
+    src: "music-16"
+  },
+  {
+    name: "Night Drive",
+    artist: "Ky akasha",
+    img: "music-17",
+    src: "music-17"
+  },
+  {
+    name: "Secret Garden",
+    artist: "Thaehan",
+    img: "music-18",
+    src: "music-18"
+  },
+  {
+    name: "Snooze",
+    artist: "S N U G",
+    img: "music-19",
+    src: "music-19"
+  },
+  {
+    name: "Secret Beach",
+    artist: "Ambulo",
+    img: "music-20",
+    src: "music-20"
+  },
+  {
+    name: "Drizzle",
+    artist: "Lizlov",
+    img: "music-21",
+    src: "music-21"
+  },
+  {
+    name: "Sail Away",
+    artist: "mell-ø",
+    img: "music-22",
+    src: "music-22"
+  },
 ];

@@ -1,11 +1,5 @@
 let allMusic = [
   {
-    name: "Simon Servida - Company",
-    artist: "Lester Salazar (Remix)",
-    img: "music-1",
-    src: "music-1"
-  },
-  {
     name: "Dreams",
     artist: "Lester Salazar",
     img: "music-2",
